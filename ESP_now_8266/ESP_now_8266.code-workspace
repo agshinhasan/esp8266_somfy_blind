@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP_now_8266",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f1xx_hal.h": "c"
+		}
+	}
+}
